@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace ReGex_UserRegistration
+namespace UserRegisteration
 {
-    public class Atleast!UpperCAse
+    public class Atleast1UpperCAse
     {
         public string Regex_Pattern = "^.*(?=.{8,})(?=.*[a-z])(?=.*[A-Z]).*$";
 
